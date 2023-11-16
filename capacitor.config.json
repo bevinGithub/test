@@ -1,0 +1,6 @@
+{
+	"appId": "za.co.eightyeight",
+	"appName": "demoCap",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
